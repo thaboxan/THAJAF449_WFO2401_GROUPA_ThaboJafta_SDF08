@@ -1,5 +1,5 @@
 # Thabo Jafta Portfolio
-Live Url:https://thabojaftaportfoliox.netlify.app/
+Live Url :https://thabojaftaportfoliox.netlify.app/
 This is the personal portfolio website for Thabo Jafta, showcasing his projects, services, and contact information.
 
 ## Table of Contents
