@@ -1,22 +1,34 @@
-# cNq83aTN
+# Thabo Jafta Portfolio
+Live Url:https://thabojaftaportfoliox.netlify.app/
+This is the personal portfolio website for Thabo Jafta, showcasing his projects, services, and contact information.
 
-Quick start:
+## Table of Contents
 
-```
-$ npm install
-$ npm start
-```
+- [Introduction](#introduction)
+- [My Services](#my-services)
+- [About Me](#about-me)
+- [My Work](#my-work)
+- [Contact Me](#contact-me)
 
-Head over to https://vitejs.dev/ to learn more about using vite
+## Introduction
 
-## About Scrimba
+The website provides an introduction to Thabo Jafta's work and services. It includes a logo, navigation menu, and an introduction section with a project title and image.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## My Services
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Thabo Jafta offers various services, which can be accessed through the navigation menu. The services section provides information about the services offered.
 
-Happy Coding!
+## About Me
+
+The "About Me" section provides details about Thabo Jafta, including a brief bio, image, and additional information about his expertise and experience.
+
+## My Work
+
+The portfolio showcases Thabo Jafta's projects. Each project is displayed with an image and a brief description.
+
+## Contact Me
+
+To contact Thabo Jafta, you can send an email to [Thvbojafta@gmail.com](mailto:Thvbojafta@gmail.com). Additionally, you can connect with him on social media platforms such as CodePen, Dribbble, Twitter, and GitHub.
+
+---
+*Note: This README is a documentation for the personal portfolio website. For the actual website content and styling, refer to the associated HTML,Javascript and CSS files.*
