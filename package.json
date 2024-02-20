@@ -6,10 +6,9 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "build": "vite build",
     "preview": "vite preview",
     "type": "module",
-    "build": "set \"VITE_CJS_TRACE=true\" && vite build"
+    "build":  "vite build"
 
   }
 }
