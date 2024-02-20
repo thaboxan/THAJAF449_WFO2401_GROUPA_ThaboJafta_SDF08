@@ -31,7 +31,7 @@ The portfolio showcases Thabo Jafta's projects. Each project is displayed with a
 
 ## Contact Form
 
-The contact form was made using web3forms to allow me receive html contact form submissions directly in my email inbox using the contact form api service without any server or backend code.
+The contact form was made using web3forms to allow me to receive html contact form submissions directly in my email inbox using the contact form api service without any server or backend code.
 
 ## Contact Me
 
