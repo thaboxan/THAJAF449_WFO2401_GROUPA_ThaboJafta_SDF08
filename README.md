@@ -9,7 +9,9 @@ This is the personal portfolio website for Thabo Jafta, showcasing his projects,
 - [My Services](#my-services)
 - [About Me](#about-me)
 - [My Work](#my-work)
+- [Contact Form](#contact-form)
 - [Contact Me](#contact-me)
+
 
 ## Introduction
 
@@ -26,6 +28,10 @@ The "About Me" section provides details about Thabo Jafta, including a brief bio
 ## My Work
 
 The portfolio showcases Thabo Jafta's projects. Each project is displayed with an image and a brief description.
+
+## Contact Form
+
+The contact form was made using web3forms to allow me receive html contact form submissions directly in my email inbox using the contact form api service without any server or backend code.
 
 ## Contact Me
 
